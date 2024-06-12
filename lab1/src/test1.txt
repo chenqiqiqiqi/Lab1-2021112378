@@ -1,5 +1,9 @@
 In the future, in the afternoon, in the midnight,
 where are you coming from where are we coming to?@*&( where are future coming to
 where did the party go we are coming to the next new life
+<<<<<<< HEAD
 and wishing everything is alright. change firstlyB1
 
+=======
+and wishing everything is alright. change firstlyB1
+>>>>>>> B2
