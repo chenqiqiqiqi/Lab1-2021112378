@@ -8,7 +8,7 @@ import java.util.concurrent.TimeUnit;
 
 public class Graph {
 
-    private List<Node> nodeList;
+    public List<Node> nodeList;
 
     public void addVertex(Node node) {
         if(nodeList == null)
